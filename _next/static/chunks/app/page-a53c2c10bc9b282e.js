@@ -21,7 +21,7 @@ self.webpackChunk_N_E.push([[931], {
                 children: s ? (0, r.jsxs)(r.Fragment, {
                     children: [
                         (0, r.jsx)("img", {
-                            src: "https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
+                            src: "/bear-kiss-bear-kisses.gif"
                         }),
                         (0, r.jsxs)("div", {
                             className: "text-4xl font-bold my-4 text-center",
@@ -40,7 +40,7 @@ self.webpackChunk_N_E.push([[931], {
                     children: [
                         (0, r.jsx)("img", {
                             className: "h-[200px]",
-                            src: "https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
+                            src: "/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
                         }),
                         (0, r.jsx)("h1", {
                             className: "text-4xl my-4 text-center",
