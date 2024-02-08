@@ -27,6 +27,7 @@ self.webpackChunk_N_E.push([[931], {
                             className: "text-4xl font-bold my-4 text-center",
                             children: [
                                 "Ok yay!!! Let's Chat😉",
+                                (0, r.jsx)("br", {}),
                                 (0, r.jsx)("a", {
                                     href: "https://wa.me/+94760506916",
                                     rel: "noopener noreferrer",
