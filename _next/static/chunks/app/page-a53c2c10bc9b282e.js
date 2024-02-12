@@ -29,7 +29,7 @@ self.webpackChunk_N_E.push([[931], {
                                 "Ok yay!!! Let's Chat😉",
                                 (0, r.jsx)("br", {}),
                                 (0, r.jsx)("a", {
-                                    href: "https://wa.me/+94760506916",
+                                    href: "https://wa.me/+254706125465",
                                     rel: "noopener noreferrer",
                                     children: "Click here"
                                 })
